@@ -71,8 +71,6 @@ Soy desarrollador frontend con interés en crear aplicaciones web completas, fun
   <img src="https://streak-stats.demolab.com?user=juanjoseabreu23-oss&theme=github-dark&hide_border=true" height="150" />
 </p>
 
-![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=juanjoseabreu23-oss&theme=github-compact)
-
 ---
 
 <p align="center">

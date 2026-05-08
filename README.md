@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27517110/README.md)
+[README (2).md](https://github.com/user-attachments/files/27517179/README.2.md)
 <h1 align="center">Hola, soy Juan 👋</h1>
 
 <p align="center">
@@ -68,8 +68,7 @@ Soy desarrollador frontend con interés en crear aplicaciones web completas, fun
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjoseabreu23-oss&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseabreu23-oss&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=juanjoseabreu23-oss&theme=github-dark&hide_border=true" height="150" />
 </p>
 
 ---
